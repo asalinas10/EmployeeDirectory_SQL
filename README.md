@@ -46,11 +46,17 @@ The "sql_scripts" directory contains the SQL queries to create the SQL tables as
 Import Order of CSVs:
 
 titles.csv
+
 departments.csv
+
 employees.csv
+
 dept_emp.csv
+
 dept_manager.csv
+
 salaries.csv
+
 
 
 

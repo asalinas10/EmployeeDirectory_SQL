@@ -21,11 +21,7 @@ employee_schema.sql
 employee_script.sql
 
 Summary:
-The "data" directory contains the CSV files that are to be imported into the SQL tables.
-The "EmployeesSQL" directory contains the SQL queries to create the SQL tables as well as perform data analysis on the created tables.
-"create_tables.sql" use this SQL query to create the tables for the database.
-"data_analysis.sql" use the queries in this file for data analysis.
-"ERD.png" - Entity Relationship Diagram - showcases the relationships of the tables
+The "data" directory contains the CSV files that are to be imported into the SQL tables. The "sql_scripts" directory contains the SQL queries to create the SQL tables as well as perform data analysis on the created tables. "employee_schema.sql" use this SQL query to create the tables for the database. "employee_script.sql" use the queries in this file for data analysis. "ERD.png" - Entity Relationship Diagram - showcases the relationships of the tables.
 
 Import Order of CSVs:
 

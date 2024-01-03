@@ -1,24 +1,35 @@
 # sql-challenge
 
 Contents:
+
 (dir) data
 
 departments.csv
+
 dept_emp.csv
+
 dept_manager.csv
+
 employees.csv
+
 salaries.csv
+
 titles.csv
+
 
 (dir) erd_folder
 
 erd_schema
+
 ERD.png
+
 
 (dir) sql_scripts
 
 employee_schema.sql
+
 employee_script.sql
+
 
 Summary:
 The "data" directory contains the CSV files that are to be imported into the SQL tables. 

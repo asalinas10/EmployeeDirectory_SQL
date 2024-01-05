@@ -47,22 +47,36 @@ For this project, i’ll design the tables to hold the data from the CSV files, 
 ![Alt text](<Screen Shot 2024-01-04 at 4.19.11 PM.png>)
 
 
+3. Data Analysis
 
-Data Analysis Queries:
+    - List the employee number, last name, first name, sex, and salary of each employee.
 
-    1. List the employee number, last name, first name, sex, and salary of each employee.
+![Alt text](<Screen Shot 2024-01-04 at 4.25.23 PM.png>)
 
-    2. List the first name, last name, and hire date for the employees who were hired in 1986.
+    - List the first name, last name, and hire date for the employees who were hired in 1986.
 
-    3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
+![Alt text](<Screen Shot 2024-01-04 at 4.26.04 PM.png>)
 
-    4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
+    - List the manager of each department along with their department number, department name, employee number, last name, and first name.
 
-    5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+![Alt text](<Screen Shot 2024-01-04 at 4.26.46 PM.png>)
 
-    6. List each employee in the Sales department, including their employee number, last name, and first name.
+    - List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 
-    7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+![Alt text](<Screen Shot 2024-01-04 at 4.27.21 PM.png>)
 
-    8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
-_
+    - List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+
+![Alt text](<Screen Shot 2024-01-04 at 4.28.03 PM.png>)
+
+    - List each employee in the Sales department, including their employee number, last name, and first name.
+
+![Alt text](<Screen Shot 2024-01-04 at 4.28.38 PM.png>)
+
+    - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+![Alt text](<Screen Shot 2024-01-04 at 4.29.12 PM.png>)
+
+    - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+![Alt text](<Screen Shot 2024-01-04 at 4.29.49 PM.png>)
